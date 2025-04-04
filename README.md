@@ -1,6 +1,3 @@
-Awesome! Here's a more detailed GitHub `README` description with badges, features, and setup instructions:
-
----
 
 # 🌿 Sugarcane Disease Prediction using Deep Learning
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)  
